@@ -1,4 +1,4 @@
-# 🚀 Job Application Assistant (Agentic AI)
+# Job Application Assistant (Agentic AI)
 
 An AI-powered Job Application Assistant built using **CrewAI multi-agent architecture** that automatically analyzes job postings, researches companies, tailors resumes, and generates personalized cover letters.
 
@@ -6,48 +6,48 @@ This project demonstrates practical implementation of **Agentic AI workflows**, 
 
 ---
 
-## ✨ Features
+## Features
 
-✅ Multi-Agent AI Workflow (CrewAI)  
-✅ Job Posting Analysis  
-✅ Automated Company Research  
-✅ Resume Tailoring based on job requirements  
-✅ Personalized Cover Letter Generation  
-✅ Sequential Agent Collaboration  
-✅ Resume PDF parsing tool  
+Multi-Agent AI Workflow (CrewAI)  
+Job Posting Analysis  
+Automated Company Research  
+Resume Tailoring based on job requirements  
+Personalized Cover Letter Generation  
+Sequential Agent Collaboration  
+Resume PDF parsing tool  
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 The system uses multiple specialized AI agents that collaborate like a real hiring assistant team:
 
-### 1️⃣ Job Posting Analyzer
+### Job Posting Analyzer
 - Extracts required skills
 - Identifies key responsibilities
 - Detects company culture signals
 - Understands hiring priorities
 
-### 2️⃣ Company Research Specialist
+### Company Research Specialist
 - Searches company information
 - Finds mission, values, products
 - Retrieves recent company news
 - Helps personalize applications
 
-### 3️⃣ Resume Customization Expert
+### Resume Customization Expert
 - Reads resume PDF
 - Highlights relevant experience
 - Injects job-specific keywords
 - Reorders content for impact
 
-### 4️⃣ Cover Letter Specialist
+### Cover Letter Specialist
 - Generates personalized cover letters
 - Connects candidate experience to role
 - Uses company research insights
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 User Input
@@ -67,7 +67,7 @@ Agents run sequentially using CrewAI workflow orchestration.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Job-Application-Assistant/
@@ -83,16 +83,16 @@ Job-Application-Assistant/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
-### 1️⃣ Clone repository
+### Clone repository
 
 ```bash
 git clone https://github.com/Samakcha/Job-Application-Assistant.git
 cd Job-Application-Assistant
 ```
 
-### 2️⃣ Create virtual environment
+### Create virtual environment
 
 ```bash
 python -m venv venv
@@ -100,7 +100,7 @@ source venv/bin/activate      # Mac/Linux
 venv\Scripts\activate         # Windows
 ```
 
-### 3️⃣ Install dependencies
+### Install dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -108,7 +108,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔑 Environment Variables
+## Environment Variables
 
 Create `.env` file:
 
@@ -121,7 +121,7 @@ SERPER_API_KEY=your_serper_key_here
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Place your resume as:
 
@@ -142,7 +142,7 @@ You will be prompted to:
 
 ---
 
-## 📄 Output
+## Output
 
 Generated application materials will be saved in:
 
@@ -159,7 +159,7 @@ Includes:
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 
 - Python
 - CrewAI (Agentic workflows)
@@ -170,7 +170,7 @@ Includes:
 
 ---
 
-## 🎯 Why This Project?
+## Why This Project?
 
 This project showcases:
 
@@ -187,7 +187,7 @@ Ideal for demonstrating:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Web UI (Next.js or React)
 - Job scraping automation
@@ -198,13 +198,13 @@ Ideal for demonstrating:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Built by Samakcha Mishra
 
 ---
 
-## ⭐ If you like this project
+## If you like this project
 
-Give it a star ⭐ and feel free to contribute!
+Give it a star and feel free to contribute!
 
